@@ -62,21 +62,21 @@ main p {
 @media screen and (max-width:768px) {
 	main {
 		 width: 100%;
-		 margin: 40px auto;
+		 margin: 50px auto;
 	}
 	.title1 {
 		float: none;
 		width: 90%;
-		margin: 10px auto;
+		margin: 20px auto;
 	}
 	.title2 {
 		float: none;
 		width: 90%;
-		margin: 10px auto;
+		margin: 20px auto;
 	}
 	.title3 {
 		float: none;
 		width: 90%;
-		margin: 10px auto;
+		margin: 0 auto;
 	}
 }
